@@ -5,11 +5,11 @@
 </p>
   
 
-👋 Hi, I’m @Clement2909<br>
-👀 I’m interested in software, mobile and web development<br>
-🌱 I’m currently learning all these
+👋 Hello, I’m @Clement2909<br>
+👀 I'm a passionate student at IT University<br>
+🌱 Interested in the field of computer science and software development
 
-<a href="https://www.linkedin.com/in/nomenjanahary-andoniaina-45b44b179/" target="_blank">
+<a href="www.linkedin.com/in/clément-victorin-randrianasolo" target="_blank">
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
@@ -26,7 +26,7 @@
 <a href="https://www.flutter.dev/"><img alt="Flutter" src="https://img.shields.io/badge/-Flutter-blue?logo=Flutter&style=for-the-badge"></a>
 <br><br>
 
-!Snake animation
+[!Snake animation](https://raw.githubusercontent.com/{Clement2909}/{Clement2909}/output/github-contribution-grid-snake-dark.svg)
 
 <br><br>
 <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=Clement2909&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
