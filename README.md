@@ -1,29 +1,57 @@
 <div align="center">
 
 <p>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Hello,+Bonjour,+Salama+e!;Welcome+to+my+GitHub+Profile!;I'm+a+Student+developer;I'm+interested+in+Web+Development" /></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Hello,+Welcome+to+my+GitHub!;Passionate+about+Crafting+Digital+Experiences;Aspiring+Full-Stack+Developer;Exploring+the+Future+of+Tech+and+Innovation;Let's+Build+Something+Amazing+Together!" />
+  </a>
 </p>
+
   
 
-👋 Hello, I’m @Clement2909<br>
-👀 I'm a passionate student at IT University<br>
-🌱 Interested in the field of computer science and software development
+👋 Hi there! I’m @Clement2909
+🚀 A curious and passionate IT student exploring endless possibilities in technology.
+💡 I thrive in building innovative solutions and crafting seamless user experiences.
+🎯 Focused on mastering web development, problem-solving, and software design.
+🌍 Always eager to grow, connect, and contribute to impactful projects!
 
 <a href="www.linkedin.com/in/clément-victorin-randrianasolo" target="_blank">
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 <h2>My Skills</h2>
-<a href="https://www.python.org" target="_blank">
-<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<a href="https://www.php.net" target="_blank">
+<img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
 </a>
-<a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"></a>
-<a href="https://opencv.org/" target="_blank">
-<img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white">
+<a href="https://www.mysql.com/" target="_blank">
+<img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 </a>
-<a href="https://www.heroku.com/"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"></a>
-<a href="https://www.flask.com/"><img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"></a>
-<a href="https://www.flutter.dev/"><img alt="Flutter" src="https://img.shields.io/badge/-Flutter-blue?logo=Flutter&style=for-the-badge"></a>
+<a href="https://laravel.com/" target="_blank">
+<img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
+</a>
+<a href="https://vuejs.org/" target="_blank">
+<img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
+</a>
+<a href="https://www.java.com/" target="_blank">
+<img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
+</a>
+<a href="https://www.postgresql.org/" target="_blank">
+<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
+</a>
+<a href="https://www.javascript.com/" target="_blank">
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+<img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+<img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+</a>
+<a href="https://getbootstrap.com/" target="_blank">
+<img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
+</a>
+
+
+
 <br><br>
 
 
